@@ -17,7 +17,6 @@ The system is currently in use. A live demo with synthetic data is linked below.
 ### Projects
 
 * [Barberoji](https://github.com/yammerjan/barberoji-demo): a barbershop management system covering finance, payroll, courses, leads, marketing and invoices. I mapped the process and defined the business rules. [Live read-only demo](https://barberoji-demo.lovable.app) with synthetic data.
-* [barbershop-analytics](https://github.com/yammerjan/barbershop-analytics): a Python and SQL analysis of the same data. It covers break-even, barber contribution, lead conversion (with a permutation test) and a Monte Carlo forecast, and it reports the results that did not pan out as well as the ones that did.
 
 ## Skills
 

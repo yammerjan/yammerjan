@@ -6,7 +6,13 @@ I am looking for a student position in Industrial Engineering and Management, in
 
 ## What I work on
 
-I like turning messy, real-world operations into clear rules, numbers and decisions. My main project is a management system I designed for a real barbershop and barbering academy, together with a data analysis built on its data.
+Initiated, defined and designed a centralized digital management system to streamline business operations for a barbershop and professional academy.
+
+Mapped existing business processes, identified operational inefficiencies, and translated business needs into system requirements.
+
+Designed an integrated solution covering financial management, inventory, lead tracking, task management, marketing, and team coordination, with dashboards supporting performance monitoring and data-driven decision-making.
+
+The system is currently in use. A live demo with synthetic data is linked below.
 
 ### Projects
 

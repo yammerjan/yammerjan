@@ -15,7 +15,7 @@ I like turning messy, real-world operations into clear rules, numbers and decisi
 
 ## Skills
 
-SQL, Python (pandas, matplotlib, scipy), Excel, process mapping, requirements and business rules, financial analysis (P&L, VAT, break-even), data validation.
+SQL, Python, Excel, Statistics, Operations Research and Information Systems.
 
 ## Contact
 

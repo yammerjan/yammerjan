@@ -25,4 +25,4 @@ SQL, Python, Excel, Statistics, Operations Research and Information Systems.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/) · yammerjan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yam-merjan-b983a1418) · yammerjan@gmail.com

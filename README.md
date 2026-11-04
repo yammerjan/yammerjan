@@ -1,6 +1,6 @@
 # Yam Merjan
 
-Third-year Industrial Engineering and Management student at Afeka Tel Aviv Academic College of Engineering (graduating July 2028).
+Third-year Industrial Engineering and Management student at Afeka Tel Aviv Academic College of Engineering (expected graduation: July 2028).
 
 I am looking for a student position in Industrial Engineering and Management, in areas such as operations, analytics and process improvement.
 

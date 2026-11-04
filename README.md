@@ -1,4 +1,4 @@
-# Hi, I'm Yam Merjan
+# Yam Merjan
 
 Third-year Industrial Engineering and Management student at Afeka Tel Aviv Academic College of Engineering (graduating July 2028).
 
